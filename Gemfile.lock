@@ -112,11 +112,6 @@ GEM
       commonmarker (~> 0.17.6)
       jekyll-commonmark (~> 1.2)
       rouge (>= 2.0, < 4.0)
-    jekyll-dash (1.0.12)
-      jekyll (~> 3.5)
-      jekyll-feed (~> 0.9)
-      jekyll-paginate
-      jekyll-seo-tag (~> 2.1)
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
     jekyll-feed (0.15.0)
@@ -259,8 +254,9 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-dash (~> 1.0.0)
   jekyll-feed (~> 0.12)
+  jekyll-remote-theme
+  minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
