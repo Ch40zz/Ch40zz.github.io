@@ -34,8 +34,11 @@ theme: minima
 #theme: jekyll-dash
 #theme: jekyll-theme-midnight
 
+#remote_theme: benbalter/retlab
+
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
