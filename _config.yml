@@ -83,6 +83,9 @@ dash:
     - url: https://github.com/Ch40zz
       icon: github-square
       color: purple
+    - url: https://www.youtube.com/channel/UCrRbKqbGFeli41ax09PFLhQ
+      icon: youtube-square
+      color: red
       
   show_author: true
 
